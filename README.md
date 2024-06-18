@@ -8,13 +8,11 @@ The system processes and manages data related to airports and flights, allowing 
 - **Airport Management**: Handle data related to different airports.
 - **Flight Management**: Manage and process flight data.
 - **Data Processing**: Read and process data from text files.
-- **Testing**: Test the functionality of the system with provided test cases.
 
 ## Provided Files
 - **Airport.py**: Contains the `Airport` class that handles airport-related data and operations.
 - **Flight.py**: Contains the `Flight` class that handles flight-related data and operations.
 - **Assign4.py**: Main script that utilizes the `Airport` and `Flight` classes to perform various operations.
-- **Asst4Tests.py**: Test cases to validate the functionality of the airport and flight management system.
 - **airports.txt**: A text file containing data about different airports.
 - **flights.txt**: A text file containing data about different flights.
 - **sdfg.py**: Additional script file related to the project.
